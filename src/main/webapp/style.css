@@ -1,0 +1,65 @@
+body {
+  background-color: #cfe4f0;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+h1 {
+  color: #ac90ee;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+p {
+  color: #a54747;
+}
+
+label {
+  color: #a54747;
+  font-size: 18px;
+  text-align: left;
+}
+
+input {
+  padding: 5px;
+  width: 150px;
+  margin: 5px;
+}
+
+.button {
+  background-color: rgb(104, 155, 196);
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: left;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 300px;
+}
+
+.submit {
+  background-color: #ac90ee;
+  font-family: "Courier New", Courier, monospace;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  width: auto;
+  left: 50%;
+}
+
+#map {
+  height: 450px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
