@@ -1,5 +1,8 @@
 import com.google.auto.value.AutoValue;
 
+/**
+ * Represents a place that food can be ordered from.
+ */
 @AutoValue 
 public abstract class Place {
   public abstract String name();
