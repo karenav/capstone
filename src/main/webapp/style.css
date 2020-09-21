@@ -63,3 +63,39 @@ input {
   margin-left: auto;
   margin-right: auto;
 }
+
+#content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+  font-size: 25px;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+li {
+    margin-top: 10px;
+    font-size: 40px;
+    margin-bottom: -15px;
+}
+
+#place-container {
+   border:1px solid grey;
+   width:400px;
+   background-color: lightgreen;
+   margin-top: 20px;
+}
+
+#map-container {
+  position: relative;
+  float:left;
+  margin-left: 50px;
+  margin-top: auto;
+}
+
+#feedback-box {
+  border:1px solid grey;
+  float:left;
+  padding: 2%;
+  margin-left: 50px;
+  margin-top: auto;
+}
